@@ -1,0 +1,24 @@
+/* custom properties  */
+:root{ 
+    --grid-cols:1;
+    --grid-rows:1;
+}
+
+#container{
+    display: grid;
+    width: 800px;
+    height: 800px;
+
+}
+
+.grid-item{
+    /* padding:1em; */
+    border:1px solid grey;
+    text-align:center; 
+}
+
+.highlight{
+    background-color: yellow; 
+
+}
+

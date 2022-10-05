@@ -38,8 +38,4 @@ buttons.forEach( (button) => { //Button formatting
      });
 }); 
 
-
-
 makeRows(rows, cols); 
-// var tiles = (document.querySelectorAll(".grid-item")); //selects class (.class)
-
